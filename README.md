@@ -38,7 +38,7 @@ SLTev is an open-source tool for assessing the quality of spoken language transl
 
 ## Installation
 
-- If you using virtual environment, source your enviornment by the following command:
+- If you using virtual environment source your enviornment by the following command:
 
 ``` {r, engine='bash'} 
 $ source path/to/virtualenv/bin/activate
